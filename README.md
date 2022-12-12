@@ -1,6 +1,4 @@
-# BYWEEKLY_6 DEEPIKA
 using System;
-
 
 class Program
 {
